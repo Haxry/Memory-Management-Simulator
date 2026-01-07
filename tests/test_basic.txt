@@ -1,0 +1,9 @@
+init 1024
+strategy first_fit
+alloc 100
+alloc 200
+alloc 50
+free 2
+display
+stats
+exit
